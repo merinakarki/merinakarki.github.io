@@ -6,19 +6,19 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Protfolio Project
 
 # Your name to show in the footer
-author: Some Person
+author: Merina Manandhar Karki
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Lambda School: "https://lambdaschool.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Merina's Linkedin: "https://linkedin.com/Merina Manandhar Karki"
 
 # --- Logo --- #
 
